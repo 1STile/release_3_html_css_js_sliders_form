@@ -27,7 +27,7 @@ body {
   color: #89867e;
   min-height: 250px;
   background: rgba(0,0,0,0.05);
-  background: url("images/head_pic1.jpg")no-repeat center;
+  background: url("../images/head_pic1.jpg")no-repeat center;
       background-size: cover;
     animation:fade 8s infinite;
 -webkit-animation:fade 8s infinite;
@@ -37,7 +37,7 @@ body {
   color: #89867e;
   min-height: 250px;
   background: rgba(0,0,0,0.05);
-  background: url("images/head_pic2.jpg")no-repeat center;
+  background: url("../images/head_pic2.jpg")no-repeat center;
       background-size: cover;
     animation:fade2 8s infinite;
 -webkit-animation:fade2 8s infinite;
@@ -203,7 +203,7 @@ body {
 }
 
 .velo-icon-radius:before {
-  content: url("images/header_Icon.png");
+  content: url("../images/header_Icon.png");
 }
 
 .velo-icon-effect-1 .velo-icon {
@@ -320,7 +320,7 @@ body {
 }
 
 .velo-main_block1-radius1:before {
-  content: url("images/main_block_logo1.png");
+  content: url("../images/main_block_logo1.png");
 }
 
 .velo-main_block1-effect-1 .velo-main_block1 {
@@ -369,7 +369,7 @@ body {
   z-index: 1;
   background-color: rgb(255, 255, 255);
   position: absolute;
-  background: url('images/main_block_bg1.png');
+  background: url('../images/main_block_bg1.png');
 
 }
 .main_block_pic2 {
@@ -444,7 +444,7 @@ body {
 }
 
 .velo-icon2-radius1:before {
-  content: url("images/main_block_icon1.png");
+  content: url("../images/main_block_icon1.png");
 }
 
 .velo-icon2-effect-1 .velo-icon2 {
@@ -496,7 +496,7 @@ body {
   display: block;
   width: 533px;
   height: 200px;
-  background: url("images/main_block_pic2.jpg");
+  background: url("../images/main_block_pic2.jpg");
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
   -webkit-transition: 2.5s ease-in-out;
@@ -520,7 +520,7 @@ body {
   display: block;
   width: 533px;
   height: 200px;
-  background: url("images/main_block_pic4.jpg");
+  background: url("../images/main_block_pic4.jpg");
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
   -webkit-transition: 2.5s ease-in-out;
@@ -535,11 +535,11 @@ body {
 }
 
 .velo-main_block1-radius2:before {
-  content: url("images/main_block_logo2.png");
+  content: url("../images/main_block_logo2.png");
 }
 
 .velo-icon2-radius2:before {
-  content: url("images/main_block_icon2.png");
+  content: url("../images/main_block_icon2.png");
 }
 
 .main_block_pic5 {
@@ -601,7 +601,7 @@ body {
 }
 
 .velo-main_block5-radius1:before {
-  content: url("images/main_block_logo3.png");
+  content: url("../images/main_block_logo3.png");
 }
 
 .velo-main_block5-effect-1 .velo-main_block5 {
@@ -650,7 +650,7 @@ body {
   z-index: 1;
   background-color: rgb(255, 255, 255);
   position: absolute;
-  background: url('images/main_block_bg1.png');
+  background: url('../images/main_block_bg1.png');
 
 }
 .main_block_pic6 {
@@ -725,7 +725,7 @@ body {
 }
 
 .velo-icon6-radius1:before {
-  content: url("images/main_block_icon3.png");
+  content: url("../images/main_block_icon3.png");
 }
 
 .velo-icon6-effect-1 .velo-icon6 {
@@ -777,7 +777,7 @@ body {
   display: block;
   width: 533px;
   height: 200px;
-  background: url("images/main_block_pic6.jpg");
+  background: url("../images/main_block_pic6.jpg");
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
   -webkit-transition: 2.5s ease-in-out;
@@ -854,7 +854,7 @@ body {
 .social_link a {
   display: block;
   margin: 0 auto;
-  background: url("images/twitter_icon.png") no-repeat;
+  background: url("../images/twitter_icon.png") no-repeat;
   width: 40px;
   height: 40px;
   -webkit-transform: scale(1.05);
@@ -941,7 +941,7 @@ body {
   .caption_block3 .caption-text, 
   .caption_block4  .caption-text 
    {
-    background: url("images/veloshop_icon.png") no-repeat;
+    background: url("../images/veloshop_icon.png") no-repeat;
     background-position: center;
     z-index: 10;
     color: #fff;
@@ -953,7 +953,7 @@ body {
 
 .caption-text2,
   .caption_block {
-    background: url("images/veloshop_icon.png") no-repeat;
+    background: url("../images/veloshop_icon.png") no-repeat;
     background-position: center;
     z-index: 10;
     color: #fff;
@@ -964,7 +964,7 @@ body {
   }
 
 .caption-text3 {
-    background: url("images/veloshop_icon.png") no-repeat;
+    background: url("../images/veloshop_icon.png") no-repeat;
     background-position: center;
     z-index: 10;
     color: #fff;
@@ -1233,15 +1233,15 @@ body {
   padding-left: 12px;
 }
 .t_icon a {
-  background: url("images/t_icon.png") no-repeat;
+  background: url("../images/t_icon.png") no-repeat;
 }
 
 .f_icon a {
-  background: url("images/f_icon.png") no-repeat;
+  background: url("../images/f_icon.png") no-repeat;
 }
 
 .p_icon a {
-  background: url("images/p_icon.png") no-repeat;
+  background: url("../images/p_icon.png") no-repeat;
 }
 
 .made_by h3 { 
@@ -1259,5 +1259,5 @@ body {
   float: left;
   width: 55px;
   height: 250px;
-  background: url("images/yebo.png") center no-repeat;
+  background: url("../images/yebo.png") center no-repeat;
 }
