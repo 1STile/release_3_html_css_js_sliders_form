@@ -17,7 +17,7 @@
 .bx-wrapper {
 	float: left;
 	position: relative;
-	margin: 0 auto 60px;
+	/*margin: 0 auto 60px;*/
 	padding: 0;
 	*zoom: 1;
 }
@@ -31,12 +31,12 @@
 ===================================*/
 
 .bx-wrapper .bx-viewport {
-	-moz-box-shadow: 0 0 5px #ccc;
-	-webkit-box-shadow: 0 0 5px #ccc;
-	box-shadow: 0 0 5px #ccc;
-	border:  5px solid #fff;
-	left: -5px;
-	background: #fff;
+	/*-moz-box-shadow: 0 0 5px #ccc;*/
+	/*-webkit-box-shadow: 0 0 5px #ccc;*/
+	/*box-shadow: 0 0 5px #ccc;*/
+	/*border:  5px solid #fff;*/
+	/*left: -5px;*/
+	/*background: #fff;*/
 	
 	/*fix other elements on the page moving (on Chrome)*/
 	-webkit-transform: translatez(0);
@@ -49,7 +49,7 @@
 .bx-wrapper .bx-pager,
 .bx-wrapper .bx-controls-auto {
 	position: absolute;
-	bottom: -30px;
+	bottom: 15px;
 	width: 100%;
 }
 
